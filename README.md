@@ -1,10 +1,10 @@
-Oii!! Eu sou a Rafaela Fachine! 
+<h1> Oii!! Eu sou a Rafaela Fachine! </h1>
 
 ##
 
-- 🌱 Estou estudando Python, Power BI
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas (UTFPR)
-- 🎓 Pós graduando em Business intelligence, big data e analytics - ciência de dados (Unopar)
+- 🌱 Estudando Python, Business intelligence.
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas (UTFPR).
+- 🎓 Pós graduando em Business intelligence, big data e analytics - ciência de dados (Unopar).
 
 
 ##
