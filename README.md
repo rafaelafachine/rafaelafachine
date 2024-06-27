@@ -2,8 +2,7 @@
 
 ##
 
-- 🌱 Analista de BI com mais de 2 anos de experiência
--     Sempre buscando aperfeiçoamento profissional, com foco em transformações de dados, que me permita contribuir com insights de negócio com agilidade e qualidade. 
+- 🌱 Analista de BI com mais de 2 anos de experiência, sempre buscando aperfeiçoamento profissional, com foco em transformações de dados, que me permita contribuir com insights de negócio com agilidade e qualidade. 
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas (UTFPR).
 - 🎓 Pós graduando em Business intelligence, big data e analytics - ciência de dados (Unopar).
 
